@@ -1,0 +1,16 @@
+.debugbar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  border-top: 0;
+  font-family: arial, sans-serif;
+  background: #fff;
+  z-index: 10000;
+  font-size: 14px;
+  color: #000;
+  text-align: left;
+  line-height: 1;
+  letter-spacing: normal;
+  direction: ltr;
+}
